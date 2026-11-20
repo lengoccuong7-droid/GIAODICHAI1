@@ -1,0 +1,7 @@
+BOT_TRADER_SWING_MULTI V4.4.0
+- Streamlit multi-tab stock research application
+- OHLCV technical analysis, market regime, relative strength, multi-timeframe, data quality
+- Swing 5–20 sessions, scanner, assistant, knowledge hub, position management
+- New multi-session OHLCV flow/trap proxy analysis
+- Tests: 40 passed; compileall passed
+- See QA_REPORT_V4.4.0.md for limitations and unperformed checks
